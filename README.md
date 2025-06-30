@@ -21,3 +21,13 @@
 Отчет о результатах тестового прогона набора тест-кейсов из ПЗ 4.6
 
 [Ссылка на документ PDF](https://drive.google.com/file/d/18mmN16COjh5qoTQkKZbxDvrSyAafCBt1/view?usp=sharing)
+
+### ПРАКТИЧЕСКОЕ ЗАДАНИЕ 8.17
+
+Перехват трафика с помощью Charles Proxy
+
+1. Изменено количество товаров в корзине с 2 на 500.
+2. Смоделирован ответ сервера со статусом 403 при обращении к https://demoshopping.ru.
+3. Выполнено перенаправление запросов с https://demoshopping.ru на https://qa.demoshopping.ru.
+
+[Ссылка на запись экрана](https://drive.google.com/file/d/1Bifp_KMo3qqX5Exo1Vl4GriSfIKp9ZBR/view?usp=drive_link)
