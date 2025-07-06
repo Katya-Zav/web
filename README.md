@@ -6,6 +6,8 @@
 
 [Ссылка на тест-план](https://docs.google.com/spreadsheets/d/1G5Oap3-wUgw0mx3gde992jhmknJX-y--35JGBr14Lic/edit?usp=sharing)
 
+---
+
 ### ПРАКТИЧЕСКОЕ ЗАДАНИЕ 4.6
 
 Создание чек-листа и тест-кейсов для тестирования модуля "Корзина", "Оплата" и "История заказов" для веб-приложения "Интернет-магазин https://qa.demoshopping.ru"
@@ -13,6 +15,8 @@
 [Ссылка на набор тест-кейсов](https://docs.google.com/spreadsheets/d/1mnJXMMfSCcGkc9PMEQQ9zd89jvSbrbXiK6TEjCB6jyc/edit?usp=drive_link)
 
 [Ссылка на чек-лист](https://docs.google.com/spreadsheets/d/1mnJXMMfSCcGkc9PMEQQ9zd89jvSbrbXiK6TEjCB6jyc/edit?usp=drive_link)
+
+---
 
 ### ПРАКТИЧЕСКОЕ ЗАДАНИЕ 4.18
 
@@ -23,6 +27,8 @@
 Отчет о результатах тестового прогона набора тест-кейсов из ПЗ 4.6
 
 [Ссылка на отчет тестового прогона (PDF файл)](https://drive.google.com/file/d/18mmN16COjh5qoTQkKZbxDvrSyAafCBt1/view?usp=sharing)
+
+---
 
 ### ПРАКТИЧЕСКОЕ ЗАДАНИЕ 8.17
 
