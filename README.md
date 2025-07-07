@@ -14,7 +14,7 @@
 
 [Ссылка на чек-лист](https://docs.google.com/spreadsheets/d/1mnJXMMfSCcGkc9PMEQQ9zd89jvSbrbXiK6TEjCB6jyc/edit?usp=drive_link)
 
-[Ссылка на набор тест-кейсов](https://docs.google.com/spreadsheets/d/1mnJXMMfSCcGkc9PMEQQ9zd89jvSbrbXiK6TEjCB6jyc/edit?usp=drive_link)
+[Ссылка на набор тест-кейсов](https://drive.google.com/file/d/1Znx3LAwX3elJW9YdXYRHpgcVWzE4i2mJ/view?usp=sharing)
 
 ---
 
@@ -26,7 +26,7 @@
 
 Осуществлен тестовый прогон набора тест-кейсов из ПЗ 4.6
 
-[Ссылка на отчет тестового прогона (PDF файл)](https://drive.google.com/file/d/18mmN16COjh5qoTQkKZbxDvrSyAafCBt1/view?usp=sharing)
+[Ссылка на отчет тестового прогона](https://drive.google.com/file/d/18mmN16COjh5qoTQkKZbxDvrSyAafCBt1/view?usp=sharing)
 
 ---
 
